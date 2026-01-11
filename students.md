@@ -5,6 +5,7 @@ permalink: /students/
 ---
 GRADUATE STUDENTS MENTORSHIP
 
+2025-2026 | **Development of a custom-built hyperspectral camera for assessing leaf biochemical composition under varying nitrogen fertigation treatments** <br> Adrian Genevie Janairo (MS Manufacturing Engineering)
 2022 - 2024 | **Development of an Adaptive Fogponics System with Nutrient Solution Control for Simulated Partial Gravity Environment** <br> Newton John Suganob (MS Manufacturing Engineering)
 2023 - 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring** <br> Daeuk Kim (South Korean) (MS Manufacturing Engineering)
 
@@ -12,7 +13,9 @@ UNDERGRADUATE STUDENTS MENTORSHIP
 
 2025         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Improving Neural Network Efficiency through Adam Optimization and l2, l0 Regularization** <br> Markus Nikolo C. Reynoso (BS in Mathematics)
 | **Understanding Dietary Patterns through Stability-Based Validation using Cluster and Network Analysis** <br> Antonio Luis P. Guidote1 (BS in Mathematics) & Alwyn Nicholson R. Ortega (BS in Statistics; co-adviser)
-2023 | **An Analysis of Crop-Livestock Systems Using Strongly Connected Components and Multi-Objective Optimization** <br> Ma. Clarisa Hilario & Jose Paolo Guarisma (BS in Mathematics)
+2025-2026 | **Development of a Mobile Marine Seaweed Cultivation Platform with Mesoplastic Pollution Avoidance and Irradiance Guided Mobility: A Scaled Down Model** <br> Jedrek Carl Dy, Zachary Ngo, Brent Schyler Uy, Fergus Jorell Wee (BS Manufacturing Engineering and Management with specialization in Mechatronics and Robotics Engineering)
+2025-2026 | **Development of a Sensor-based Handheld Device for In Situ Measurement of Phytonutrient Concentration in Solanum lycopersicum Leaves** <br> Tyrone Bustrian, Mae Cawaling, Anastine Josue, Ralph Lacambra, Vincent Matarognon (BS Manufacturing Engineering and Management with specialization in Mechatronics and Robotics Engineering)
+
 
 SENIOR HIGH SCHOOL STUDENTS MENTORSHIP
  
