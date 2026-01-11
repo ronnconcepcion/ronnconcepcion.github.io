@@ -34,7 +34,7 @@ Passionate about international collaboration and improving the quality of life o
 	</div>
 	<div class="column right">
 	
-<img src='/assets/angelyn-lao.jpg' width='220' height='300' align='right' />
+<img src='/assets/photo_ronnconcepcion.jpg' width='220' height='300' align='right' />
 	</div>
 </div>
 
