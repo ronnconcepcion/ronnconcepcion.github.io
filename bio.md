@@ -26,39 +26,25 @@ PROFESSIONAL EXPERIENCE
 
 2025 - present | **Head** <br> Biosensing and Phenotyping Research Group, Center for Engineering and Sustainable Development Research <br> De La Salle University, Manila, Philippines
 2024 - 2027 | **Principal Investigator of the Philippine Team** <br> Agricultural Thermoelectric Plant Patch Integration for Pathogenic Disease Resiliency and Computational Intelligence-Embedded Decision Support System through Internet of Living Things (AGRI-TECT), DOST-PCAARRD MECO-TECO Joint Research Program with Taiwan <br> 
+2024 - 2025 | **Continuous Quality Improvement Coordinator for Manufacturing Engineering Program** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2023 - 2026 | **Co-investigator and Technical Lead for Electronics and Computing Systems** <br> e-Asia JST Project Towards Green Smart Cities Project under DOST-PCAARRD <br> De La Salle University, Manila, Philippines
 2023 - 2023 | **Visiting Scientist** <br> Center for Molecular Biology of Plants (ZMBP) <br> University of Tübingen, Tübingen, Germany
+2022 - 2023 | **Thesis Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2023 - 2023 | **Capstone Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2022 - 2023 | **Innovation and Technology Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2022 - 2023 | **Industry-Academe Linkages Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2021 - present | **Graduate Program Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2021 - 2023 | **Science Research Specialist II/Technical Lead for Electronics and Computing Systems** <br> Project Capacitive Resistivity Undergroung Imaging under DOST-PCIEERD <br> De La Salle University, Manila, Philippines
 2021 - present | **Associate Professor** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2013 - 2017 | **ETL Technical Consultant/Operations Database Administrator** <br> Data Integration Teradata Practice / Managed Services <br> Teradata GDC Philippines, BGC, Taguig City, Philippines
 
-AWARDS
+EDITORIAL MEMBERSHIP
 
-2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  **PAASE Rising Star** <br> Philippine-American Academy of Science and Technology
-2020 | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
-2018 - 2023 | **Br. C. John Lynan FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2018 - 2023 | **Br. Albinus Peter FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2018 | **Open Arms Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
-2018 | **Best Paper Presentation Award** <br> IEEE 9th International Conference on Information, Intelligence, Systems & Applications
-2016 | **Travel Grant** <br> The Abdus Salam International Centre for Theoretical Physics
-2016 | **Best Presentation Award** <br> Hands-On Research in Complex Systems School
-2015 - 2018 | **Research Fellow** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2014 | **NANUM Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
-2013 | **Postdoctoral Fellowship** <br> Department of Systems Biology & Bioinformatics, University of Rostock, <br> Germany
-2009 - 2013 | **Student Research Fellowship** <br> Department of Systems Biology & Bioinformatics, University of Rostock, <br> Germany
-
-MEMBERSHIP IN PROFESSIONAL ORGANIZATION
-
-2025 - 2027  &nbsp; &nbsp; | **Secretary, Asian and Oceanian Women in Mathematics (AOWM)**
-2021 - present | **AC and EC members, EASIAM (East Asia Society for Industrial and Applied Mathematics)** 
-2021 - present | **Founding Member, Asian and Oceanian Women in Mathematics (AOWM)**
-2021 - present | **Board Member, Mathematical Society of the Philippines**
-2021 - present | **Regular Member, PAASE (Philippine American Academy of Scientists and Engineers)**
-2021 - present | **Regular Member, NRCP (National Research Council of the Philippines)**
-2019 - present | **SIAM (Society for Industrial and Applied Mathematics)**
-2019 - 2020 | **Associate Member, NRCP**
-2018 - 2020 | **Associate Member, PAASE (Philippine American Academy of Scientists and Engineers)**
-2017 - present | **Society for Mathematical Biology**
-2013 - present | **Mathematical Society of the Philippines**
-2002 - 2003 | **Mathematical Society of the Philippines**
+2025 - 2027 | **Associate Editor** <br> Information Processing in Agriculture, Elsevier
+2024 - present | **Associate Editor** <br> SciEnggJ
+2024 - present | **Editor-in-Chief** <br> Optimization in Agriculture 
+2024 – 2025 | **Lead Guest Editor** <br> AgriEngineering Special Issue in “Complex Interactions of Applied Artificial Intelligence, Machine Learning and Plant Science in Space Food Production” 
+2023 – 2024 | **Guest Editor** <br> Sustainability Special Issue in “Emerging Sustainable Technologies and Processes in the Nexus of Environment, Energy, Transportation, and Agriculture Using Artificial Intelligence as a Service”
+2023 – 2024 | **Associate Editor** <br> Frontiers in Soil Science
+2021 – 2022 | **Guest Editor** <br> Molecules
+2021 – present | **Associate Editor** <br> Journal for Computational Intelligence and Engineering Applications
