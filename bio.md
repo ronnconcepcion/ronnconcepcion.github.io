@@ -40,6 +40,7 @@ PROFESSIONAL EXPERIENCE
 EDITORIAL MEMBERSHIP
 
 2025 - 2027 | **Associate Editor** <br> Information Processing in Agriculture, Elsevier
+2025 - 2025 | **Lead Guest Editor** <br> AgriEngineering Special Issue in "AI and Material Science Synergy for Advanced Plant-Wearable Sensors"
 2024 - present | **Associate Editor** <br> SciEnggJ
 2024 - present | **Editor-in-Chief** <br> Optimization in Agriculture 
 2024 – 2025 | **Lead Guest Editor** <br> AgriEngineering Special Issue in “Complex Interactions of Applied Artificial Intelligence, Machine Learning and Plant Science in Space Food Production” 
