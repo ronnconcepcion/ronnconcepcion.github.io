@@ -26,7 +26,7 @@ PROFESSIONAL EXPERIENCE
 
 2025 - present | **Head** <br> Biosensing and Phenotyping Research Group, Center for Engineering and Sustainable Development Research <br> De La Salle University, Manila, Philippines
 2024 - 2027 | **Principal Investigator of the Philippine Team** <br> Agricultural Thermoelectric Plant Patch Integration for Pathogenic Disease Resiliency and Computational Intelligence-Embedded Decision Support System through Internet of Living Things (AGRI-TECT), DOST-PCAARRD MECO-TECO Joint Research Program with Taiwan <br> 
-2020 - 2024 | **Research Unit Head** <br> [CENSER’s Systems and Computational Biology (SComB) Research Unit](https://dlsu-scomb.github.io/) <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2023 - 2023 | **Visiting Scientist** <br> Center for Molecular Biology of Plants (ZMBP) <br> University of Tübingen, Tübingen, Germany
 2017 - 2023 | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
