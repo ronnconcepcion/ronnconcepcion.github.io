@@ -32,7 +32,7 @@ PROFESSIONAL EXPERIENCE
 2023 - 2023 | **Capstone Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2022 - 2023 | **Innovation and Technology Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2022 - 2023 | **Industry-Academe Linkages Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
-2021 - present | **Graduate Program Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2022 - present | **Graduate Program Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2021 - 2023 | **Science Research Specialist II/Technical Lead for Electronics and Computing Systems** <br> Project Capacitive Resistivity Undergroung Imaging under DOST-PCIEERD <br> De La Salle University, Manila, Philippines
 2021 - present | **Associate Professor** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
 2013 - 2017 | **ETL Technical Consultant/Operations Database Administrator** <br> Data Integration Teradata Practice / Managed Services <br> Teradata GDC Philippines, BGC, Taguig City, Philippines
