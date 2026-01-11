@@ -28,6 +28,13 @@ UNDERGRADUATE CAPSTONE MENTORSHIP
 2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **X** <br> X <br> (BS Manufacturing Engineering and Management)
 2022 - 2023 | **X** <br> X <br> (BS Manufacturing Engineering and Management)
 
+UNDERGRADUATE RESEARCH INTERNS SUPERVISORSHIP
+
+Project AGRI-TECT | 2025 - 2025 | **Kernel Miguel Llanes**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines <br> **Ralph Samuel Lacambra**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines <br> **Vincent Andrew Mikeael Mataragnon**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines 
+Project GALAXIA | 2025 - 2025 | **Tracy Camille Taberna**, BS Electronics and Communications Engineering, Technological University of the Philippines, Manila, Philippines <br> **Jedrek Carl Dy**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines <br> **Jim Jayron Choy**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines 
+Project e-Asia | 2023 - 2023 | **Marian Lubag**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines 
+
+
 SENIOR HIGH SCHOOL STUDENTS RESEARCH MENTORSHIP
  
 2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **X** <br> X <br> (Grade 12, De La Salle University)
