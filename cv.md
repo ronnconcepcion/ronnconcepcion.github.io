@@ -15,16 +15,18 @@ ResearchGate: [link](https://www.researchgate.net/profile/Ronnie-Concepcion-Ii?e
 ---
 
 ## Education
-- PhD, [University], Year
-- MS, [University], Year
-- BS, [University], Year
+- PhD, De La Salle University, Manila, Philippines, 2021
+- MS, Mapua University, Manila, Philippines, 2017
+- BS, Technological University of the Philippines, Manila, Philippines, 2012
 
 ---
 
 ## Research Interests
-- AI for plant phenotyping  
+- AI/CV for digital plant phenotyping
+- Biosensors / plant wearable sensors
 - Cyber-physical agricultural systems  
-- Smart farming technologies
+- Next generation future food systems/smart farming technologies
+- Evolutionary and swarm optimization
 
 ---
 
