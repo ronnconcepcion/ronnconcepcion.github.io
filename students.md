@@ -5,9 +5,8 @@ permalink: /students/
 ---
 GRADUATE STUDENTS MENTORSHIP
 
-2022 - 2024 | **Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks** <br> John Paul Guzman (MS in Mathematics)
-2023 - 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **SDevelopment of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring** <br> Daeuk Kim (South Korean) (MS Manufacturing Engineering)
-2022 - 2024 | **Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks** <br> John Paul Guzman (MS in Mathematics)
+2022 - 2024 | **Development of an Adaptive Fogponics System with Nutrient Solution Control for Simulated Partial Gravity Environment** <br> Newton John Suganob (MS Manufacturing Engineering)
+2023 - 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring** <br> Daeuk Kim (South Korean) (MS Manufacturing Engineering)
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
