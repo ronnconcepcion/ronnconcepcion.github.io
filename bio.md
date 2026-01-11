@@ -3,17 +3,16 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
+Email: [ronnie.concepcion@dlsu.edu.ph](mailto:ronnie.concepcion@dlsu.edu.ph)  
+Google Scholar: [link](https://scholar.google.com/citations?user=4sjuWsoAAAAJ&hl=en)  
+ResearchGate: [link](https://www.researchgate.net/profile/Ronnie-Concepcion-Ii?ev=hdr_xprf)
+
 ACADEMIC BACKGROUND
 
 2019 - 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **PhD in Electronics and Communications Engineering (Outstanding Dissertation Award)** <br> De La Salle University, Manila, Germany <br> Department of Electronics and Computer Engineering <br> Thesis title: “Vision-based Lettuce Phenotype Modeling Using Computational Intelligence” <br> Supervisor: Acd. Elmer Dadios <br> 
 2020 - 2020 | **Program Diploma in Innovation Management** <br> International Business Management Institute, Berlin, Germany <br>
 2015 - 2017 | **Masters of Science in Electronics Engineering major in Microelectronics (Outstanding Thesis Award)** <br> Mapua University, Manila, Philippines <br> Thesis title: “Structural Health Monitoring of Bridge using Wireless Sensor Network with Temperature Compensation via Principal Component Analysis” <br> Supervisor: Prof. Febus Reidj Cruz
-2007 - 2012 | **Bachelor of Secondary in Electronics and Communications Engineering** <br> Technological University of the Philippines, Manila, Philippines <br> Thesis title: "Rechargeable Cold Chain Medical Bag using Peltier Effect Technology with Solar Power" <br> Supervisor: Engr. Gaudencio Basil Jr.
-
-Email: [ronnie.concepcion@dlsu.edu.ph](mailto:ronnie.concepcion@dlsu.edu.ph)  
-ORCID: [0000-0002-7611-1562](https://orcid.org/0000-0002-7611-1562)  
-Google Scholar: [link](https://scholar.google.com/citations?user=4sjuWsoAAAAJ&hl=en)  
-ResearchGate: [link](https://www.researchgate.net/profile/Ronnie-Concepcion-Ii?ev=hdr_xprf)
+2007 - 2012 | **Bachelor of Science in Electronics and Communications Engineering** <br> Technological University of the Philippines, Manila, Philippines <br> Thesis title: "Rechargeable Cold Chain Medical Bag using Peltier Effect Technology with Solar Power" <br> Supervisor: Engr. Gaudencio Basil Jr.
 
 RESEARCH INTERESTS
 - AI/CV for digital plant phenotyping
