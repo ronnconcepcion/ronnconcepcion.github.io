@@ -12,7 +12,7 @@ GRADUATE STUDENTS THESIS MENTORSHIP
 2025 - 2026 | **Development of an Automated Conveyor-based 3D Photogrammetery System for High-throughput Corn Root Imaging and Phenotyping** <br> Perrie Lance Perocho (MS Manufacturing Engineering)
 2025 - 2026 | **Development of a Custom-built Hyperspectral Camera for Assessing Leaf Biochemical Composition Under Varying Nitrogen Fertigation Treatments** <br> Adrian Genevie Janairo (MS Manufacturing Engineering)
 2023 - 2026 | **Development of a Recirculating Fogponics System in Microgravity Environment with an Electronic Nose for Indirect Quantification of Nutrients** <br> Carey Arroyo (MS Manufacturing Engineering)
-2023 - 2024 | **Development of an Adaptive Fogponics System with Nutrient Solution Control for Simulated Partial Gravity Environment** <br> Newton John Suganob (MS Manufacturing Engineering)
+2023 - 2025 | **Development of an Adaptive Fogponics System with Nutrient Solution Control for Simulated Partial Gravity Environment** <br> Newton John Suganob (MS Manufacturing Engineering)
 2023 - 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring** <br> Daeuk Kim (South Korean) (MS Manufacturing Engineering)
 
 UNDERGRADUATE STUDENTS THESIS MENTORSHIP
