@@ -1,0 +1,14 @@
+title: "Ronn Concepcion"
+description: "Associate Professor | Researcher"
+url: "https://ronnconcepcion.github.io"
+baseurl: ""
+theme: jekyll-theme-minima
+
+header_pages:
+  - index.md
+  - publications.md
+  - students.md
+  - cv.md
+
+markdown: kramdown
+highlighter: rouge
