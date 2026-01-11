@@ -1,14 +1,34 @@
+# ---------------------------
+# Site settings
+# ---------------------------
 title: "Ronn Concepcion"
 description: "Associate Professor | Researcher"
-url: "https://ronnconcepcion.github.io"
-baseurl: ""
+url: "https://ronnconcepcion.github.io"   # Your site URL
+baseurl: ""                               # Leave blank for user page
 theme: jekyll-theme-minima
 
+# ---------------------------
+# Pages for top navigation
+# ---------------------------
 header_pages:
   - index.md
   - publications.md
   - students.md
   - cv.md
 
+# ---------------------------
+# Markdown and syntax highlighting
+# ---------------------------
 markdown: kramdown
 highlighter: rouge
+
+# ---------------------------
+# Permalinks (optional, clean URLs)
+# ---------------------------
+permalink: /:title/
+
+# ---------------------------
+# Optional settings
+# ---------------------------
+# Future posts (if you have a blog)
+future: true
