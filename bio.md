@@ -26,18 +26,12 @@ PROFESSIONAL EXPERIENCE
 
 2025 - present | **Head** <br> Biosensing and Phenotyping Research Group, Center for Engineering and Sustainable Development Research <br> De La Salle University, Manila, Philippines
 2024 - 2027 | **Principal Investigator of the Philippine Team** <br> Agricultural Thermoelectric Plant Patch Integration for Pathogenic Disease Resiliency and Computational Intelligence-Embedded Decision Support System through Internet of Living Things (AGRI-TECT), DOST-PCAARRD MECO-TECO Joint Research Program with Taiwan <br> 
+2023 - 2026 | **Co-investigator and Technical Lead for Electronics and Computing Systems** <br> e-Asia JST Project Towards Green Smart Cities Project under DOST-PCAARRD <br> De La Salle University, Manila, Philippines
 2023 - 2023 | **Visiting Scientist** <br> Center for Molecular Biology of Plants (ZMBP) <br> University of Tübingen, Tübingen, Germany
-2017 - 2023 | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2013 | **Postdoctoral** <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
-2008 - 2012 | **Research Assistant** <br>Project title: Mathematical modeling of neurodegenerative processes in Alzheimer’s disease <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
-2008 | **Research Assistant (programming with Java)** <br> Project title: theWeP (The Worldwide Experimental Platform) <br> <http://www.thewep.org/en/philshift study.php> <br> Ludwig Maximilians University, Germany
-2007 - 2008 | **Research Assistant (programming with Java)** <br> Project title: EUCLIS (EUCLock Information System) <br> <http://www.bioinfo.mpg.de/euclis/> <br> Ludwig Maximilians University, Germany
-2006 - 2008 | **Assistant Professor 1** <br> St. Scholastica’s College, 1004 Manila, Philippines
-2006 - 2007 | **Research Assistant (programming with ImageJ)** <br> Project title: Sartorious image analysis project <br> <http://www.sartorius.com/> <br> Headed by Dr. Eduardo Mendoza of the Ludwig Maximilians University, Germany
-2002 - 2005 | **Instructor** <br> De La Salle University, Taft Avenue, 1004 Manila, Philippines
-2001 - 2002 | **Assistant Instructor** <br> De La Salle University, Taft Avenue, 1004 Manila, Philippines
+2021 - present | **Graduate Program Coordinator** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2021 - 2023 | **Science Research Specialist II/Technical Lead for Electronics and Computing Systems** <br> Project Capacitive Resistivity Undergroung Imaging under DOST-PCIEERD <br> De La Salle University, Manila, Philippines
+2021 - present | **Associate Professor** <br> Department of Biomedical, Manufacturing and Robotics Engineering, Gokongwei College of Engineering <br> De La Salle University, Philippines
+2013 - 2017 | **ETL Technical Consultant/Operations Database Administrator** <br> Data Integration Teradata Practice / Managed Services <br> Teradata GDC Philippines, BGC, Taguig City, Philippines
 
 AWARDS
 
