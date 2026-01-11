@@ -6,8 +6,7 @@ permalink: /
 
 # Dr. Ronn Concepcion
 
-Associate Professor | Researcher  
-De La Salle University, Manila, Philippines  
+Associate Professor and Graduate Program Coordinator in Engineering. My research focuses on AI‑enabled phenotyping, cyber‑physical agricultural systems, and smart farming technologies.
 
 ---
 
