@@ -24,11 +24,10 @@ UNDERGRADUATE STUDENTS THESIS MENTORSHIP
 
 UNDERGRADUATE CAPSTONE MENTORSHIP 
 
-
+2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **X** <br> X <br> (BS Manufacturing Engineering and Management)
+2022 - 2023 | **X** <br> X <br> (BS Manufacturing Engineering and Management)
 
 SENIOR HIGH SCHOOL STUDENTS RESEARCH MENTORSHIP
  
-2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Understanding Filipino’s Communication Dynamics Through Topic Modeling Analysis** <br> Christan Angelo Coronel, Airene Moradas, Mary Therese Lourdes Tenorio, Kyla Marie Yee <br> (Grade 12, De La Salle University)
- | **Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment** <br> Richard Ron O. Dela Rosa, Karl Anthony S. Rasing, Prince Matthew F. Sy, Jon Raymond H. Valdez <br> (Grade 12, De La Salle University)
-2022 - 2023 | **Co-authorship Network Analysis of Filipino Mathematicians** <br> Gerard C. Aurellano, Edriel B. Guanzon, & Ethan Matthew T. Templonuevo <br> (Grade 12, Philippine Science High School - Bicol Region Campus)
-2019 - 2020 | **State Analysis of Three-node Network Motifs using Boolean Model** <br> Philipe Chan, Rlan Manero, & Matthew Te (Grade 12, De La Salle University)
+2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **X** <br> X <br> (Grade 12, De La Salle University)
+2022 - 2023 | **X** <br> X <br> (Grade 12, De La Salle University)
