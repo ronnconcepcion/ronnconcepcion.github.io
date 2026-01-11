@@ -28,6 +28,10 @@ UNDERGRADUATE CAPSTONE MENTORSHIP
 2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **X** <br> X <br> (BS Manufacturing Engineering and Management)
 2022 - 2023 | **X** <br> X <br> (BS Manufacturing Engineering and Management)
 
+GRADUATE RESEARCH INTERNS SUPERVISORSHIP
+
+Project AGRI-TECT | 2024 - 2024 <br> **Hugo Montanvert**, Master in Biologcal Engineering, Polytech Clermont, Clermont-Ferrand, France
+
 UNDERGRADUATE RESEARCH INTERNS SUPERVISORSHIP
 
 Project AGRI-TECT | 2025 - 2025 <br> **Kernel Miguel Llanes**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines <br> **Ralph Samuel Lacambra**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines <br> **Vincent Andrew Mikeael Mataragnon**, BS Manufacturing Engineering and Management, De La Salle University, Manila, Philippines 
